@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 .second__section {
-    @apply border-solid border-2 border-black rounded w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 top-3/4 z-10;
+    @apply border-solid border-2 border-black rounded w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 top-1/2 translate-y-48 z-10;
 }
 
 .third__section {
-    @apply border-solid border-2 border-black rounded p-4 w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 bottom-0;
+    @apply  rounded p-4 w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 bottom-5;
 }
 
 
