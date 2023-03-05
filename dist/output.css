@@ -517,3 +517,12 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
+
+.bg-newBlue {
+  --tw-bg-opacity: 1;
+  background-color: rgb(29 83 158 / var(--tw-bg-opacity));
+}
+
+.font-openSans {
+  font-family: Open;
+}
