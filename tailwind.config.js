@@ -8,7 +8,11 @@ module.exports = {
         newGray: '#828799',
         newYellow: '#ffcc29',
         pageBackground: '#f9fbfc',
-      }
+      },
+
+      fontFamily: {
+        openSans: 'Open',
+      },
     },
   },
   plugins: [],
