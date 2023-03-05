@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./index.html"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        newBlue: '#1d539e',
+        newGray: '#828799',
+        newYellow: '#ffcc29',
+        pageBackground: '#f9fbfc',
+      }
+    },
   },
   plugins: [],
 }
