@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .second__section {
-    @apply border-solid border-2 border-black rounded w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 top-1/2 translate-y-48 z-10;
+    @apply bg-slate-50 rounded w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 top-1/2 translate-y-48 z-10;
 }
 
 .third__section {
