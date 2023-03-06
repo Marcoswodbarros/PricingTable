@@ -7,7 +7,7 @@
 }
 
 .third__section {
-    @apply  rounded p-4 w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 bottom-5;
+    @apply  rounded p-4 w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 bottom-2;
 }
 
 
