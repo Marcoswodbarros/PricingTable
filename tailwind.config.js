@@ -14,6 +14,10 @@ module.exports = {
         openSans: 'Open',
       },
 
+      height: {
+        "half": "50vh",
+      },
+
       screens: {
         'tablet': '640px',
         // => @media (min-width: 640px) { ... }
