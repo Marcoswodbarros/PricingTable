@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.second__section {
-    @apply bg-slate-50 rounded w-2/3 mx-auto absolute left-1/2 -translate-x-1/2 top-1/2 translate-y-48 z-10;
+.sections__container--laptop {
+    @apply laptop:flex laptop:gap-8 laptop:items-end laptop:justify-center laptop:mt-10 laptop:absolute laptop:top-1/2 laptop:left-1/2 laptop:-translate-y-1/2 laptop:-translate-x-1/2;
 }
 
 .third__section {
