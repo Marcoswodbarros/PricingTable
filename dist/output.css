@@ -757,19 +757,6 @@ video {
   }
 }
 
-.third__section {
-  position: absolute;
-  left: 50%;
-  bottom: 0.5rem;
-  margin-left: auto;
-  margin-right: auto;
-  width: 66.666667%;
-  --tw-translate-x: -50%;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-  border-radius: 0.25rem;
-  padding: 1rem;
-}
-
 .assign__white {
   border-radius: 0.5rem;
   border-width: 2px;
