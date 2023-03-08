@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+.h1__desktop {
+    @apply laptop:text-3xl desktop:text-5xl desktop:pt-14 desktop:pb-6;
+}
+
+.p__responsivity {
+    @apply laptop:w-1/3 desktop:text-base desktop:w-2/6;
+}
+
 .sections__container--laptop {
     @apply laptop:flex laptop:gap-8 laptop:items-end laptop:justify-center laptop:mt-10 laptop:absolute laptop:top-1/2 laptop:left-1/2 laptop:-translate-y-1/2 laptop:-translate-x-1/2;
 }
