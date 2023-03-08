@@ -755,6 +755,19 @@ video {
     justify-content: center;
     gap: 2rem;
   }
+
+  .section__responsivity {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 16rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .section__responsivity {
+    width: 100%;
+    padding: 1.5rem;
+  }
 }
 
 .assign__white {
@@ -805,5 +818,26 @@ video {
 
   .laptop\:w-64 {
     width: 16rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .desktop\:w-72 {
+    width: 18rem;
+  }
+
+  .desktop\:text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  .desktop\:text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .desktop\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 }

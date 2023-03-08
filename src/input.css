@@ -14,6 +14,10 @@
     @apply laptop:flex laptop:gap-8 laptop:items-end laptop:justify-center laptop:mt-10 laptop:absolute laptop:top-1/2 laptop:left-1/2 laptop:-translate-y-1/2 laptop:-translate-x-1/2;
 }
 
+.section__responsivity {
+    @apply laptop:mx-0 laptop:w-64 desktop:p-6 desktop:w-full;
+}
+
 .assign__white {
     @apply border-solid border-2 border-newBlue rounded-lg uppercase text-newBlue font-semibold py-1 text-center;
 }
