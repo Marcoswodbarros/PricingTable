@@ -628,6 +628,10 @@ video {
   padding: 1rem;
 }
 
+.p-6 {
+  padding: 1.5rem;
+}
+
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -646,6 +650,11 @@ video {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.py-5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
 }
 
 .pb-1 {
@@ -824,6 +833,48 @@ video {
 @media (min-width: 1280px) {
   .desktop\:w-72 {
     width: 18rem;
+  }
+
+  .desktop\:w-full {
+    width: 100%;
+  }
+
+  .desktop\:gap-6 {
+    gap: 1.5rem;
+  }
+
+  .desktop\:gap-96 {
+    gap: 24rem;
+  }
+
+  .desktop\:gap-80 {
+    gap: 20rem;
+  }
+
+  .desktop\:gap-60 {
+    gap: 15rem;
+  }
+
+  .desktop\:gap-40 {
+    gap: 10rem;
+  }
+
+  .desktop\:p-6 {
+    padding: 1.5rem;
+  }
+
+  .desktop\:p-0 {
+    padding: 0px;
+  }
+
+  .desktop\:px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .desktop\:py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
   }
 
   .desktop\:text-lg {
