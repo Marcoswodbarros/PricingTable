@@ -4,9 +4,9 @@ let title = document.querySelector("#title");
 let subtitle = document.querySelector("#subtitle");
 let free = document.querySelector("#section__free");
 let basic = document.querySelector("#section__basic");
+let basicContainer = document.querySelector("#search__button--container");
+let basicTitle = document.querySelector("#basic__title");
 let profissional = document.querySelector("#section__profissional");
-
-let body = document.querySelector("body");
 
 firstBall.addEventListener("click", ballToRight);
 secondBall.addEventListener("click", ballToLeft);
@@ -20,6 +20,8 @@ function ballToRight () {
     free.style.color = "white";
     basic.style.backgroundColor = "black";
     basic.style.color = "white";
+    basicContainer.style.backgroundColor = "black"; 
+    basicTitle.style.color = "white";   
     profissional.style.backgroundColor = "black";
     profissional.style.color = "white";
 }
@@ -33,6 +35,8 @@ function ballToLeft () {
     free.style.color = "black";
     basic.style.backgroundColor = "white";
     basic.style.color = "black";
+    basicContainer.style.backgroundColor = "#ffcc29";
+    basicTitle.style.color = "#1d539e";
     profissional.style.backgroundColor = "white";
     profissional.style.color = "black";
 }
