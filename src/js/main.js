@@ -1,3 +1,4 @@
+// Variables
 let firstBall = document.querySelector("#firstBall");
 let secondBall = document.querySelector("#secondBall");
 let title = document.querySelector("#title");
@@ -8,9 +9,13 @@ let basicContainer = document.querySelector("#search__button--container");
 let basicTitle = document.querySelector("#basic__title");
 let profissional = document.querySelector("#section__profissional");
 
+
+// Events
 firstBall.addEventListener("click", ballToRight);
 secondBall.addEventListener("click", ballToLeft);
 
+
+// Functions
 function ballToRight () {
     firstBall.style.display = "none";
     secondBall.style.display = "block";
