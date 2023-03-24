@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.switcher__responsivity {
+    @apply right-2 h-6 w-16;
+}
+
 .h1__desktop {
     @apply laptop:text-3xl desktop:text-5xl desktop:pt-14 desktop:pb-6;
 }
