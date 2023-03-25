@@ -26,6 +26,10 @@
     @apply border-solid border-2 border-newBlue rounded-lg uppercase text-newBlue font-semibold py-1 text-center;
 }
 
+.assign__hover {
+    @apply hover:bg-green-400 hover:text-white hover:border-green-400 transition ease-linear delay-150;
+}
+
 .assign__blue {
     @apply border-solid border-2 border-newBlue rounded-lg uppercase bg-newBlue text-white font-semibold py-2 text-center w-11/12 mx-auto mb-4;
 }
