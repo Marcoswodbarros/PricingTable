@@ -1,4 +1,4 @@
-# Rocketseat Challenge - Sidebar
+# Rocketseat Challenge - Pricing table / Theme Switcher
 
 This is my sixth challenge from Rocketseat.
 
