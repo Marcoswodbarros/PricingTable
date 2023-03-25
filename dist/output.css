@@ -800,7 +800,7 @@ video {
 
 @media (min-width: 1280px) {
   .h1__desktop {
-    padding-top: 2.5rem;
+    padding-top: 2rem;
     padding-bottom: 1rem;
     font-size: 3rem;
     line-height: 1;
