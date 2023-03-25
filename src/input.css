@@ -7,7 +7,7 @@
 }
 
 .h1__desktop {
-    @apply laptop:text-3xl desktop:text-5xl desktop:pt-14 desktop:pb-6;
+    @apply laptop:text-2xl desktop:text-5xl desktop:pt-14 desktop:pb-6;
 }
 
 .p__responsivity {
