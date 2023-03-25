@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile__Menu--closed](https://user-images.githubusercontent.com/108278189/222754417-03639e12-54b2-4f7f-a3ed-dfc8c254bded.png)
+![Mobile](https://user-images.githubusercontent.com/108278189/227689961-06ee8f18-d1ac-4cb9-82fa-450b0c585906.png)
 
-![Mobile__Menu--Opened](https://user-images.githubusercontent.com/108278189/222754445-3b836252-7a6b-4700-8b5b-0ca3c21200f0.png)
+![Tablet](https://user-images.githubusercontent.com/108278189/227689964-c6ba2fb9-39b5-467e-bfbb-4b0021821d48.png)
 
-![Nav__Menu--Closed](https://user-images.githubusercontent.com/108278189/222754476-892fd9c0-c08e-434e-bc49-f50ecdc689e6.png)
+![Laptop](https://user-images.githubusercontent.com/108278189/227689968-245ca116-0736-4972-98b4-39d4207360cf.png)
 
-![Nav__Menu--Opened](https://user-images.githubusercontent.com/108278189/222754503-3485e8b3-b874-40f9-8359-d6c4acd5d5ca.png)
+![Desktop](https://user-images.githubusercontent.com/108278189/227689972-47889673-16ad-4b6a-9ae3-d0e69c3a36fd.png)
 
 
 ### Links
